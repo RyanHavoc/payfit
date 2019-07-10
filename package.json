@@ -54,7 +54,7 @@
       "js-cookie":"2.2.0",
       "jsondiffpatch":"0.3.11",
       "jsonwebtoken":"8.3.0",
-      "lodash":"4.17.5",
+      "lodash":"4.17.12",
       "memoizee":"0.4.12",
       "moment":"2.20.1",
       "mongodb":"3.0.4",
